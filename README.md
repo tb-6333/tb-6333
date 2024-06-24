@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tb-6333&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 <!--
-**tb-6333/tb-6333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TheBlank63/TheBlank63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
